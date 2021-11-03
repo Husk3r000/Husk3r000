@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Husk3r000
-- 👀 I’m interested in GameDevelpoing
+- 👀 I’m interested in Ahm
 - 🌱 I’m currently learning GameDevelopment, C#, C++, Python, javascript, Nodejs, Php;
 - 💞️ I’m looking to collaborate on IDK
 - 📫 How to reach me Discord : Husk3r#2198
