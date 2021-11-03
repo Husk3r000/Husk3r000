@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Husk3r000
+- 👋 Hi, I’m @Husk3r
 - 👀 I’m interested in Ahm
 - 🌱 I’m currently learning GameDevelopment, C#, C++, Python, javascript, Nodejs, Php;
 - 💞️ I’m looking to collaborate on IDK
